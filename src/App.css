@@ -71,15 +71,15 @@ img {
 
 .circle {
     background-color: transparent;
-    margin-right: 37px;
+    margin-right: 40px;
     text-align: center;
-    margin-top: 50px;
-    border:3px solid #FFF338;
-    height:90px;
-    border-radius:50%;
+    margin-top: 40px;
+    border:5px solid #9b910d;
+    height:80px;
+    border-radius:60%;
     -moz-border-radius:50%;
     -webkit-border-radius:50%;
-    width:90px;
+    width:110px;
 }
 
 .ratings {
@@ -141,6 +141,7 @@ text-transform: uppercase;
 .top-information {
   display: flex;
   justify-content: space-between;
+  
 }
 
 .supporting-info {
